@@ -26,4 +26,4 @@ This dataset contains transactional data from an e-commerce business. Each row r
 | State/City | Customer's location |
 | Payment Mode | Method used for payment |
 | Shipping Mode |	Method used to deliver the order |
-_ reshu _
+
