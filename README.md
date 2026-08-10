@@ -9,19 +9,20 @@ This dataset contains transactional data from an e-commerce business. Each row r
 
 ### Dataset Columns
 
-| **Column** | | **Description** |
-| Order ID | | | Unique identification number for each order |
-| Order Date | | Date on which the order was placed |
-| Customer ID| | Unique identification number for each customer |
-| Customer Name | | Name of the customer |
-| Category | | Main product category |
-| Sub-Category |	| More specific product classification |
-| Product Name |	| Name of the product purchased |
-| Quantity |	| Number of units purchased |
-| Sales |	| Total revenue generated from the order |
-| Discount |	| Discount offered on the product/order |
-| Profit |	| Profit earned from the order |
-| Region |	| Geographic region of the customer |
-| State/City |	| Customer's location |
-| Payment Mode |	| Method used for payment |
-| Shipping Mode |	| Method used to deliver the order |
+| **Column** | **Description** |
+|----------- | ------------ |
+| Order ID | Unique identification number for each order |
+| Order Date | Date on which the order was placed |
+| Customer ID| Unique identification number for each customer |
+| Customer Name | Name of the customer |
+| Category | Main product category |
+| Sub-Category | More specific product classification |
+| Product Name | Name of the product purchased |
+| Quantity | Number of units purchased |
+| Sales |	Total revenue generated from the order |
+| Discount | Discount offered on the product/order |
+| Profit |	Profit earned from the order |
+| Region |	Geographic region of the customer |
+| State/City | Customer's location |
+| Payment Mode | Method used for payment |
+| Shipping Mode |	Method used to deliver the order |
