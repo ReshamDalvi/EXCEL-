@@ -9,7 +9,7 @@ The objective of this project is to analyze Amazon e-commerce sales and order da
 
 This dataset contains transactional data from Amazon e-commerce orders. Each row represents an individual order and includes information about order status, product details, sales amount, quantity, fulfilment, shipping, and customer location.
 
-### Dataset Columns
+### 📋 Dataset Columns
 
 | **Column** | **Description** |
 |----------- | ------------ |
