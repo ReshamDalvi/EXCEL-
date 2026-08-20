@@ -1,11 +1,13 @@
-# E-Commerce Sales Dashboard
+# 🛒 Amazon E-commerce Sales & Order Analysis Dashboard
 
-## Project Objective
+## 🎯 Project Objective
 
-The objective of this E-commerce Sales Dashboard is to analyze sales performance, customer purchasing behavior, product trends, and business profitability using interactive visualizations. The dashboard aims to help stakeholders monitor key performance indicators (KPIs), identify top-performing products and regions, track monthly sales trends, and make data-driven decisions to improve revenue, profitability, and overall business performance.
+The objective of this project is to analyze Amazon e-commerce sales and order data to understand overall sales performance, order trends, product performance, customer locations, fulfilment methods, and order status. The dashboard aims to identify key trends and patterns, highlight high-performing products and regions, analyze cancellations and fulfilment performance, and provide meaningful business insights that can support data-driven decision-making.
 
-## Dataset Description
-This dataset contains transactional data from an e-commerce business. Each row represents an individual order or order item and includes information about the order, customer, product, sales, discount, profit, and location.
+
+## 📂 Dataset Description
+
+This dataset contains transactional data from Amazon e-commerce orders. Each row represents an individual order and includes information about order status, product details, sales amount, quantity, fulfilment, shipping, and customer location.
 
 ### Dataset Columns
 
