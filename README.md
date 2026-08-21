@@ -40,10 +40,17 @@ The dataset contains 148,770 ride-booking records that provide a comprehensive v
 ## ⭐ Top KPI Cards:
 
 Total Bookings - 148,770
+
 Completed Rides - 
+
 Completion Rate % - 
+
 Total Booking Value / Revenue - 
+
 Average Booking Value - 
+
 Average Ride Distance - 
+
 Average Driver Rating - 
+
 Average Customer Rating - 
