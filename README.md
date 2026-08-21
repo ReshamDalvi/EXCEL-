@@ -36,3 +36,14 @@ The dataset contains 148,770 ride-booking records that provide a comprehensive v
 |Customer Ratings              |      Rating given by customer (1-5 scale) |
 |Payment Method                |      Method used for payment (UPI, Cash, Credit Card, Uber Wallet, Debit Card) |
 
+
+## ⭐ Top KPI Cards:
+
+Total Bookings - 148,770
+Completed Rides - 
+Completion Rate % - 
+Total Booking Value / Revenue - 
+Average Booking Value - 
+Average Ride Distance - 
+Average Driver Rating - 
+Average Customer Rating - 
