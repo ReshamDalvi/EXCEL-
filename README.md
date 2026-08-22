@@ -51,6 +51,6 @@ Average Booking Value - ₹346
 
 Average Ride Distance - 16.75 KM
 
-Average Driver Rating - 2.6
+Average Driver Rating - 4.2
 
-Average Customer Rating - 2.7
+Average Customer Rating - 4.4
