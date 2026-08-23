@@ -8,7 +8,7 @@ vehicle performance, revenue streams, cancellation behaviors, customer satisfact
 
 ## 📂 Dataset Description
 
-The dataset contains 148,770 ride-booking records that provide a comprehensive view of Uber's ride-sharing operations. The dataset includes information on bookings, vehicle types, customer and driver activity, trip details, booking value, cancellations, payment methods, locations, and ratings.
+The dataset contains 15,000 ride-booking records that provide a comprehensive view of Uber's ride-sharing operations. The dataset includes information on bookings, vehicle types, customer and driver activity, trip details, booking value, cancellations, payment methods, locations, and ratings.
 
 ### 📋 Dataset Columns
 
@@ -39,7 +39,7 @@ The dataset contains 148,770 ride-booking records that provide a comprehensive v
 
 ## ⭐ Top KPI Cards:
 
-Total Bookings - 148,770
+Total Rides - 15,000
 
 Completed Rides - 93,000
 
