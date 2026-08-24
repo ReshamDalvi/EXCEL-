@@ -63,7 +63,7 @@ The dataset contains 15,000 ride-booking records that provide a comprehensive vi
 * 📊 Bookings by Vehicle Type
 * 📊 Revenue by Vehicle Type
 * 📊 Payment Method Distribution
-* 🥧 Customer Cancellation Results
+* 🥧 Customer Cancellation Reasons
 * 📍  Top Pickup Locations
 
 ### Interactive Filters
