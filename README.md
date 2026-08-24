@@ -148,7 +148,9 @@ The dataset contains 15,000 ride-booking records that provide a comprehensive vi
 ## 📝 Conclusion
 
 The Uber Data Analytics Dashboard provides a comprehensive analysis of ride-booking performance for 2024. The analysis       highlights key trends in bookings, Booking Value, vehicle performance, payment preferences, pickup locations,                cancellations, and customer and driver ratings.
+
 The dashboard helps identify peak booking periods, high-performing vehicle types, popular pickup locations, preferred        payment methods, and major cancellation reasons, enabling better understanding of customer behavior and operational          performance.
+
 Overall, this project demonstrates how Excel, PivotTables, Pivot Charts, and interactive slicers can be used to transform raw ride-booking data into meaningful business insights and data-driven decision-making.
 
 ---
