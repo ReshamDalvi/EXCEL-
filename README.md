@@ -56,6 +56,8 @@ The dataset contains 15,000 ride-booking records that provide a comprehensive vi
 * Payment Method: Replaced nulls with Not Initiated.
 * Reason Standardization: Simplified inconsistent descriptions such as Customer Behavior, Excess Passengers, Personal Issue,   Customer No-Show, and Unspecified Issue.
 
+---
+
 
 ## 📈 Dashboard Features:
 
