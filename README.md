@@ -42,7 +42,7 @@ The dataset contains 15,000 ride-booking records that provide a comprehensive vi
 ## 🧮 Calculated Columns
 
 * **Month** – Extracted from the Date.
-* **Date**  - Extracted from the Date.
+* **Day**  - Extracted from the Date.
 
 
 ## 🧹 Data Cleaning
