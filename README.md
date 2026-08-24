@@ -1,4 +1,4 @@
-# 🚕 Uber Analysis Dashboard
+# 🚕 UBER DATA ANALYTICS DASHBOARD
 
 ## 🎯 Project Objective
 
