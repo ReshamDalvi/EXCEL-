@@ -17,7 +17,7 @@ The dataset contains 15,000 ride-booking records that provide a comprehensive vi
 |Date                          |      Date of the booking |
 |Time                          |      Time of the booking |
 |Booking ID                    |      Unique identifier for each ride booking |
-|Booking Status                |      Status of booking (Completed, Cancelled by Customer, Cancelled by Driver, etc. |
+|Booking Status                |      Status of booking (Completed, Cancelled by Customer, Cancelled by Driver, etc.) |
 |Customer ID                   |      Unique identifier for customers |
 |Vehicle Type                  |      Type of vehicle (Go Mini, Go Sedan, Auto, eBike/Bike,  UberXL, Premier Sedan) |
 |Pickup Location               |      Starting location of the ride |
