@@ -118,13 +118,13 @@ The dataset contains 15,000 ride-booking records that provide a comprehensive vi
 * UPI was the most-used actual payment method with 45,909 bookings.
 * Not Initiated has 48,000 records, but since this represents bookings without an initiated payment method, it should not be   described as a payment preference.
 
-### 📍 Pickup Location
-* Khandsa was the top pickup location with 949 bookings.
-* Barakhamba Road followed closely with 946 bookings.
-
 ### ❌ Customer Cancellation
 * Wrong Address was the most common customer cancellation reason with 2,362 cancellations.
 * Driver is not moving was the second-highest reason with 2,335 cancellations.
+
+### 📍 Pickup Location
+* Khandsa was the top pickup location with 949 bookings.
+* Barakhamba Road followed closely with 946 bookings.
 
 ---
 
