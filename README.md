@@ -43,6 +43,12 @@ The dataset contains 15,000 ride-booking records that provide a comprehensive vi
 
 * **Month** – Extracted from the Order Date.
 
+
+## 🧮 Data Cleaning
+
+
+
+
 ## 📈 Dashboard Features:
 
 ### ⭐ KPI Cards:
