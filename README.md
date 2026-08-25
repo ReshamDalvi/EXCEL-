@@ -16,6 +16,8 @@ The dataset contains 15,000 ride-booking records that provide a comprehensive vi
 | **Column** | **Description** |
 |----------- | ------------ |
 |Date                          |      Date of the booking |
+|Month                         |      Month of the booking |
+|Day                           |      Day of the booking |
 |Time                          |      Time of the booking |
 |Booking ID                    |      Unique identifier for each ride booking |
 |Booking Status                |      Status of booking (Completed, Cancelled by Customer, Cancelled by Driver, etc.) |
