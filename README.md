@@ -68,7 +68,7 @@ The dataset contains 15,000 ride-booking records that provide a comprehensive vi
 * Total Rides
 * Completed Rides
 * Completion Rate (%)
-* Total Revenue
+* Total Booking Value
 * Average Booking Value
 * Average Ride Distance
 * Average Driver Rating
