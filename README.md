@@ -22,7 +22,7 @@ The dataset contains 15,000 ride-booking records that provide a comprehensive vi
 |Booking ID                    |      Unique identifier for each ride booking |
 |Booking Status                |      Status of booking (Completed, Cancelled by Customer, Cancelled by Driver, etc.) |
 |Customer ID                   |      Unique identifier for customers |
-|Vehicle Type                  |      Type of vehicle (Go Mini, Go Sedan, Auto, eBike/Bike,  UberXL, Premier Sedan) |
+|Vehicle Type                  |      Types of vehicle (Go Mini, Go Sedan, Auto, eBike/Bike,  UberXL, Premier Sedan) |
 |Pickup Location               |      Starting location of the ride |
 |Drop Location                 |      Destined location of the ride |
 |Avg VTAT                      |      Average time for driver to reach pickup location (in minutes) |
