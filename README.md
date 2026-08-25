@@ -34,7 +34,7 @@ The dataset contains 15,000 ride-booking records that provide a comprehensive vi
 |Incomplete Rides              |      Incomplete ride flag |
 |Incomplete Rides Reason       |      Reason for incomplete rides |
 |Booking Value                 |      Total fare amount for the ride |
-|Ride Distance                 |      Distance covered during the ride (in km) |
+|Ride Distance                 |      Distance covered during the ride (in KM) |
 |Driver Ratings                |      Rating given by customer (1-5 scale) |
 |Customer Ratings              |      Rating given by driver (1-5 scale) |
 |Payment Method                |      Method used for payment (UPI, Cash, Credit Card, Uber Wallet, Debit Card) |
