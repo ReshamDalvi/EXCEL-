@@ -101,7 +101,7 @@ The dataset contains 15,000 ride-booking records that provide a comprehensive vi
 * **Total Rides:** 150,000
 * **Completed Rides:** 93,000
 * **Completion Rate (%):** 62%
-* **Total Revenue:** ₹51.85M
+* **Total Booking Value:** ₹51.85M
 * **Average Booking Value:** ₹346
 * **Average Ride Distance:** 16.75 KM
 * **Average Driver Rating:** 4.2
