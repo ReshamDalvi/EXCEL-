@@ -63,7 +63,7 @@ The dataset contains 15,000 ride-booking records that provide a comprehensive vi
 
 ## 📈 Dashboard Features:
 
-
+![UBER DATA ANALYTICS DASHBOARD](Uber%20Dashboard.png)
 
 ### ⭐ KPI Cards:
 
